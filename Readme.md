@@ -4,7 +4,7 @@ Currently the list does not contain anything personally developed.
 ## 1) Games
 List of known Open source games: https://github.com/leereilly/games
 <br><br>https://github.com/englercj/shiv <b>(fun introductory game to show)</b>
-https://github.com/TheMozg/awk-raycaster.git
+<br>https://github.com/TheMozg/awk-raycaster.git
 ### Open Source Games that I am looking at:
 https://github.com/0ad/0ad
 <br>https://github.com/xonotic/xonotic
